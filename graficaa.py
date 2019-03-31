@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-x = np.arange(0,10,0.2)
+x = np.arange(0,20,0.2)
 y1 = np.cos(x)
 y2 = np.sin(x)
 
